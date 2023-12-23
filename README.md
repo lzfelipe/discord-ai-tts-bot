@@ -69,7 +69,7 @@ EL_API_KEY=Eleven labs API Key
     "use_triggers": true, //if set to false bot will respond to whatever someone speaks
     "trigger_words": ["phrase or word that your bot has to detect to start generating a response"],
     "join_phrase": "phrase or word to the bot join your current channel",
-    "target_language": "en-US", //target language for speach recognition
+    "target_language": "en-US", //target language for speech recognition
     "censor_profanity": false //if set to true this will censor messages received from discord speakers
   }
 }
