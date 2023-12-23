@@ -1,6 +1,6 @@
 # Discord AI TTS Bot (Eleven Labs + OpenAI)
 
-This is a Discord Bot that combines functionalities from Eleven Labs (TTS and Voice Cloning) and OpenAI API for text gen. With this you can locally host a discord bot that will hear your discord members conversation and (if set to) when triggered will answer with text generated directly from the GPT model and reproduce with any voice you have available in your Eleven Labs Voice Library.
+This is a Discord Bot that combines functionalities from Eleven Labs (TTS and Voice Cloning) and OpenAI API for text gen. With this you can locally host a discord bot that will hear your discord members conversation and when it hears a trigger word (if set to) will answer with text generated directly from the GPT model and reproduce with any voice you have available in your Eleven Labs Voice Library.
 
 This is heavily inspired in this repo, so please check it: [discord-speech-recognition](https://github.com/Rei-x/discord-speech-recognition)
 
