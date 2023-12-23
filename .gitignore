@@ -1,0 +1,5 @@
+node_modules
+.env
+.env.dev
+./audios/join.mp3
+.prettierrc.json
