@@ -17,8 +17,9 @@ To locally host this bot you'll need the following:
 #### API Keys
 
 - [OpenAI](https://platform.openai.com/docs/overview)
-- [ElevenLabs](https://elevenlabs.io/)
-*There's free trials for both of these for you to test!*
+- [ElevenLabs](https://elevenlabs.io/) <br />
+
+*There's free trials for both of these for you to test!* <br />
 
 - [Discord Bot](https://discordjs.guide/preparations/setting-up-a-bot-application.html)
   
