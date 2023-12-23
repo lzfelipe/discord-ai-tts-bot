@@ -88,3 +88,4 @@ $ node index.js
 ```
 
 you should see something like this:
+![ConsoleImage](https://raw.githubusercontent.com/lzfelipe/discord-ai-tts-bot/master/sample.png)
